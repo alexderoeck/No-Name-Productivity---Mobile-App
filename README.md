@@ -7,6 +7,6 @@
 <br>
 
 <strong>My college coursework for my Level 3 Computing BTEC:</strong>
-No Name Productivity, a mobile app designed to support students with their study skills & independence, created in Thunkable. <i>Please see the attached PDF of my project write up.</i>
+<a href="https://x.thunkable.com/projectPage/69b9b8e93b41191d069e1c39">No Name Productivity</a>, a mobile app designed to support students with their study skills & independence, created in Thunkable. <i>Please see the attached PDF of my project write up.</i>
 <br><br>
-<strong>Files:</strong> PDF of my Word Document write-up and my app's (Balsamiq) Wireframes.
+<strong>Files:</strong> PDF of my Word Document write-up, my app's (Balsamiq) Wireframes (PDF), and testing screen recordings (ZIP File).
